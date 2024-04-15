@@ -1,1 +1,29 @@
+## Ignore Visual Studio temporary files and user-specific files
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# NuGet Packages
+packages/
+
+# Visual Studio 2022 cache/options directory
+.vs/
+
+# WebConfig
+
 \WebPréstamos\WebPréstamos\Web.config
+WebPréstamos/WebPréstamos/Web.config
+/WebPréstamos/WebPréstamos/Web.config
+
+# Log files
+*.log
+*.tmp
+*.temp
